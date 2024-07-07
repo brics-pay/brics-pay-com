@@ -12,7 +12,7 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "/info",
-                "showIcon": true
+                "showIcon": false
             },
             {
                 "type": "Link",
