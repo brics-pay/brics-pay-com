@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: BRICS PAY Decentralised multi-currency digital international payments system
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
