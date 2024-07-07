@@ -42,7 +42,7 @@
             {
                 "type": "Social",
                 "label": "YouTube",
-                "altText": "",
+                "altText": "YouTube",
                 "url": "YouTube.com",
                 "icon": "youtube",
                 "elementId": ""
