@@ -187,7 +187,7 @@ sections:
 backgroundImage:
   type: BackgroundImage
   url: /images/Covers.png
-  backgroundSize: contain
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
