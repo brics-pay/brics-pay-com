@@ -45,9 +45,9 @@
             },
             {
                 "type": "Link",
-                "label": "brics_id",
+                "label": "national",
                 "altText": "",
-                "url": "/id",
+                "url": "/national",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -55,9 +55,9 @@
             },
             {
                 "type": "Link",
-                "label": "national",
+                "label": "brics_id",
                 "altText": "",
-                "url": "/national",
+                "url": "/id",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
