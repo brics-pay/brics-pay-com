@@ -110,7 +110,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "news",
                 "url": "/blog",
                 "altText": ""
             },
