@@ -65,16 +65,7 @@
                 "elementId": ""
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "label": "YouTube",
-                "altText": "YouTube",
-                "url": "YouTube.com",
-                "icon": "youtube",
-                "elementId": ""
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
