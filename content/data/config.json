@@ -26,9 +26,9 @@
             },
             {
                 "type": "Link",
-                "label": "b2b",
+                "label": "p2p",
                 "altText": "",
-                "url": "/b2b",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -36,9 +36,9 @@
             },
             {
                 "type": "Link",
-                "label": "p2p",
+                "label": "b2b",
                 "altText": "",
-                "url": "/",
+                "url": "/b2b",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
