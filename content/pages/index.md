@@ -189,6 +189,6 @@ backgroundImage:
   url: /images/Covers.png
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: repeat-x
+  backgroundRepeat: no-repeat
   opacity: 100
 ---
