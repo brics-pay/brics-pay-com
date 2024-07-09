@@ -70,7 +70,7 @@
             },
             {
                 "type": "Link",
-                "label": "connect ",
+                "label": "connect →",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
