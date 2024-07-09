@@ -68,13 +68,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
-            },
-            {
-                "type": "Social",
                 "label": "YouTube",
                 "altText": "YouTube",
                 "url": "YouTube.com",
