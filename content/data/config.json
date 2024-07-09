@@ -67,6 +67,16 @@
                 "type": "Link",
                 "label": "news",
                 "url": "/blog"
+            },
+            {
+                "type": "Link",
+                "label": "connect →",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [],
