@@ -3,7 +3,7 @@
     "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-a",
         "isSticky": false,
         "title": "BRICS PAY ECOSYSTEM",
         "isTitleVisible": false,
