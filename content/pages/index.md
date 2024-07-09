@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: I’m a developer
+    title: UNIFIED MONETARY SETTLEMENT SYSTEM
     subtitle: Decentralised multi-currency digital international payments system
     styles:
       self:
