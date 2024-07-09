@@ -10,12 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "payments",
-                "url": "/info",
-                "showIcon": false
-            },
-            {
-                "type": "Link",
                 "label": "news",
                 "url": "/blog"
             },
