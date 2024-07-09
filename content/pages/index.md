@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: UNIFIED MONETARY SETTLEMENT SYSTEM
+    title: UNIFIED MONETARY SETTLEMENT ECOSYSTEM
     subtitle: Decentralised multi-currency digital international payments system
     styles:
       self:
