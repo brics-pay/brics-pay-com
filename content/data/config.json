@@ -6,27 +6,21 @@
         "headerVariant": "variant-c",
         "isSticky": false,
         "title": "BRICS PAY ECOSYSTEM",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "payments",
-                "url": "/info",
-                "showIcon": false
+                "label": "consortium",
+                "altText": "",
+                "url": "/consort",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             },
             {
                 "type": "Link",
-                "label": "loyalty",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
-            },
-            {
-                "type": "Link",
-                "label": "b2b brics",
+                "label": "b2b",
                 "altText": "",
                 "url": "/b2b",
                 "showIcon": false,
@@ -36,13 +30,18 @@
             },
             {
                 "type": "Link",
-                "label": "brics id",
+                "label": "p2p",
                 "altText": "",
-                "url": "/id",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "loyalty",
+                "url": "/projects"
             },
             {
                 "type": "Link",
@@ -56,39 +55,21 @@
             },
             {
                 "type": "Link",
-                "label": "consortium",
+                "label": "brics_id",
                 "altText": "",
-                "url": "/consort",
+                "url": "/id",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            }
-        ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
             },
             {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
-            },
-            {
-                "type": "Social",
-                "label": "YouTube",
-                "altText": "YouTube",
-                "url": "YouTube.com",
-                "icon": "youtube",
-                "elementId": ""
+                "type": "Link",
+                "label": "news",
+                "url": "/blog"
             }
         ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
@@ -96,7 +77,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/768252dea281421f1018c5923fc86220.png",
+            "url": "/images/Frame 9.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""

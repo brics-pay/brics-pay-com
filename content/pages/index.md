@@ -2,22 +2,12 @@
 type: PageLayout
 title: BRICS PAY - Decentralised multi-currency digital international payments system
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: I’m a developer
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: UNIFIED MONETARY SETTLEMENT ECOSYSTEM - BRICS PAY
+    subtitle: "Decentralised multi-currency digital international payments system\_between the BRICS countries for any user of all types of payments from individuals to corporations."
     styles:
       self:
         height: auto
@@ -191,4 +181,11 @@ sections:
         textAlign: left
       text:
         textAlign: left
+backgroundImage:
+  type: BackgroundImage
+  url: /images/Covers.png
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 50
 ---
