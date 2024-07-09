@@ -10,11 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "news",
-                "url": "/blog"
-            },
-            {
-                "type": "Link",
                 "label": "consortium",
                 "altText": "",
                 "url": "/consort",
@@ -67,6 +62,11 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "news",
+                "url": "/blog"
             }
         ],
         "socialLinks": [],
