@@ -65,11 +65,6 @@
             },
             {
                 "type": "Link",
-                "label": "news",
-                "url": "/blog"
-            },
-            {
-                "type": "Link",
                 "label": "connect →",
                 "altText": "",
                 "url": "/",
