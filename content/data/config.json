@@ -16,11 +16,6 @@
             },
             {
                 "type": "Link",
-                "label": "loyalty",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
                 "label": "news",
                 "url": "/blog"
             },
@@ -33,6 +28,11 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "loyalty",
+                "url": "/projects"
             },
             {
                 "type": "Link",
