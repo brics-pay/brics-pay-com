@@ -253,7 +253,7 @@ sections:
     subtitle: ''
     actions:
       - type: Link
-        label: Learn more
+        label: OPEN TO READ
         altText: ''
         url: /
         showIcon: false
