@@ -124,6 +124,42 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+  - type: RecentPostsSection
+    subtitle: Posts
+    actions:
+      - type: Link
+        label: See all posts
+        altText: See all posts
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    colors: colors-f
+    variant: variant-b
+    elementId: ''
+    recentCount: 2
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showFeaturedImage: false
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
