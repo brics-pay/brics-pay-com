@@ -58,7 +58,7 @@
                 "type": "Link",
                 "label": "brics_id",
                 "altText": "BRICS ID",
-                "url": "/id",
+                "url": "/brics_id",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
