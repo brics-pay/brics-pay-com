@@ -277,7 +277,7 @@ sections:
             - BRICS ID
             - Consultation
           width: full
-          isRequired: false
+          isRequired: true
         - type: TextareaFormControl
           name: message
           label: Message
