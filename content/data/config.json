@@ -21,7 +21,7 @@
             {
                 "type": "Link",
                 "label": "BRICS PAY QR",
-                "altText": "",
+                "altText": "BRICS PAY QR",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
