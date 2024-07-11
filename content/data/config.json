@@ -31,7 +31,8 @@
             {
                 "type": "Link",
                 "label": "loyalty",
-                "url": "/projects"
+                "url": "/projects",
+                "altText": "BRICS Loyalty"
             },
             {
                 "type": "Link",
