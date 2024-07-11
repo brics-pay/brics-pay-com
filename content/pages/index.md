@@ -35,6 +35,15 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |+
+      **Open to innovations**
+
+      *   for all countries
+
+      *   for all forms of money
+
+      *   for all of humanity
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -73,93 +82,219 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
-  - type: FeaturedPostsSection
+  - type: TextSection
+    colors: colors-d
+    variant: variant-b
+    title: Official documents
+    text: ''
     elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
     styles:
       self:
         height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: wide
         padding:
           - pt-28
-          - pb-48
+          - pb-0
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
       title:
         textAlign: left
       subtitle:
         textAlign: left
+      text:
+        textAlign: left
+  - type: HeroSection
+    title: 5th BRICS Business CouncilAnnual Report 2018
+    subtitle: ''
+    actions:
+      - type: Link
+        label: OPEN TO READ
+        altText: ''
+        url: 'https://drive.google.com/file/d/1L5m5uw2_pab20DkrG9xYsKVa-00ASUxh/view'
+        showIcon: true
+        icon: arrowUpRight
+        iconPosition: right
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/1.png
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-d
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-12
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
       actions:
-        justifyContent: flex-end
+        justifyContent: flex-start
+    text: ''
+  - type: HeroSection
+    title: 7th BRICS Business CouncilAnnual Report 2020
+    subtitle: ''
+    actions:
+      - type: Link
+        label: OPEN TO READ
+        altText: ''
+        url: 'https://eng.brics-russia2020.ru/images/114/83/1148368.pdf'
+        showIcon: true
+        icon: arrowUpRight
+        iconPosition: right
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/2.png
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-d
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: HeroSection
+    title: 8th BRICS Business CouncilAnnual Report 2021
+    subtitle: ''
+    actions:
+      - type: Link
+        label: OPEN TO READ
+        altText: ''
+        url: 'https://brics2021.gov.in/brics/public/uploads/docpdf/getdocu-57.pdf'
+        showIcon: true
+        icon: arrowUpRight
+        iconPosition: right
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/3.png
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-d
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-12
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Send a request to connect... \U0001F4AC"
     form:
       type: FormBlock
-      elementId: sign-up-form
+      elementId: form-request-fields
       fields:
-        - name: firstName
-          label: First Name
+        - name: Full Name
+          label: Full Name
           hideLabel: true
-          placeholder: First Name
+          placeholder: 'Full Name, Position'
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: lastName
-          label: Last Name
+        - name: Company / Organization
+          label: Company
           hideLabel: true
-          placeholder: Last Name
-          isRequired: false
+          placeholder: Company / Organization
+          isRequired: true
           width: 1/2
           type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Email
+          placeholder: Email address
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
+        - type: TextFormControl
+          name: 'Phone number '
+          label: 'Phone number '
           hideLabel: true
-          placeholder: Address
-          isRequired: true
+          placeholder: Phone number (whatsapp / telegram)
           width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
+          isRequired: true
+        - type: SelectFormControl
+          name: Product or topic
+          label: 'Product or topic:'
+          hideLabel: false
+          defaultValue: Press to select...
+          options:
+            - BRICS PAY QR
+            - BRICS Loyalty
+            - BRICS PAY B2B
+            - BRICS CBDC
+            - BRICS ID
+            - Consultation
+          width: full
+          isRequired: true
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: false
+          placeholder: Type your message or question here
+          width: full
           isRequired: false
+        - name: updates Consent
+          label: I agree to the processing of my personal data.
+          isRequired: true
           width: full
           type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
           textAlign: center
+      title: Form Request
     styles:
       self:
         height: auto
@@ -181,6 +316,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    elementId: form-request
 backgroundImage:
   type: BackgroundImage
   url: /images/Covers.png

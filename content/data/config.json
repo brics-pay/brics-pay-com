@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "consortium",
-                "altText": "",
+                "altText": "consortium BRICS PAY",
                 "url": "/consort",
                 "showIcon": false,
                 "icon": "arrowRight",
@@ -20,18 +20,8 @@
             },
             {
                 "type": "Link",
-                "label": "b2b",
-                "altText": "",
-                "url": "/b2b",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "p2p",
-                "altText": "",
+                "label": "BRICS PAY QR",
+                "altText": "BRICS PAY QR",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
@@ -41,13 +31,24 @@
             {
                 "type": "Link",
                 "label": "loyalty",
-                "url": "/projects"
+                "url": "/projects",
+                "altText": "BRICS Loyalty"
             },
             {
                 "type": "Link",
-                "label": "national",
-                "altText": "",
-                "url": "/national",
+                "label": "BRICS PAY B2B ",
+                "altText": "BRICS PAY B2B ",
+                "url": "/b2b",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "BRICS CBDC",
+                "altText": "BRICS CBDC",
+                "url": "/cbdc",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -56,8 +57,8 @@
             {
                 "type": "Link",
                 "label": "brics_id",
-                "altText": "",
-                "url": "/id",
+                "altText": "BRICS ID",
+                "url": "/brics_id",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -67,7 +68,7 @@
                 "type": "Link",
                 "label": "connect →",
                 "altText": "",
-                "url": "/",
+                "url": "#contact",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -82,7 +83,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/Frame 9.png",
+            "url": "/images/LOGO.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
@@ -119,14 +120,14 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "phoneNumber": "",
+            "phoneAltText": "",
+            "email": "team@brics-pay.com",
+            "emailAltText": "Our email",
+            "address": "",
             "addressAltText": "My address"
         },
-        "copyrightText": "BRICS PAY - Decentralised multi-currency digital international payments system\n",
+        "copyrightText": "© BRICS Business Council, 2024 | \n\nBRICS PAY - Decentralised multi-currency digital international payments system.\n",
         "styles": {
             "self": {
                 "width": "narrow",
