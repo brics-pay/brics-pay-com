@@ -265,7 +265,7 @@ sections:
           width: 1/2
           type: TextFormControl
         - name: updatesConsent
-          label: Sign me up to recieve updates
+          label: I agree to the processing of my personal data.
           isRequired: false
           width: full
           type: CheckboxFormControl
