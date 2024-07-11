@@ -251,16 +251,7 @@ sections:
   - type: HeroSection
     title: 8th BRICS Business CouncilAnnual Report 2021
     subtitle: ''
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/3.png
