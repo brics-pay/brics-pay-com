@@ -257,6 +257,13 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
+        - type: TextFormControl
+          name: phone
+          label: Name
+          hideLabel: true
+          placeholder: Phone number (whatsapp / telegram)
+          width: 1/2
+          isRequired: true
         - type: SelectFormControl
           name: Product or topic
           label: 'Product or topic:'
@@ -283,13 +290,6 @@ sections:
           isRequired: true
           width: full
           type: CheckboxFormControl
-        - type: TextFormControl
-          name: phone
-          label: Name
-          hideLabel: true
-          placeholder: Phone number (whatsapp / telegram)
-          width: 1/2
-          isRequired: true
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
