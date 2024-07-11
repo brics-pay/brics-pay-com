@@ -174,7 +174,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: arrowUpRight
+        icon: chevronLeft
         iconPosition: right
         elementId: ''
     media:
