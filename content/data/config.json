@@ -126,7 +126,7 @@
             "address": "",
             "addressAltText": "My address"
         },
-        "copyrightText": "BRICS PAY - Decentralised multi-currency digital international payments system.\n\n© BRICS Business Council, 2024\\</div>\n",
+        "copyrightText": "© BRICS Business Council, 2024 | \n\nBRICS PAY - Decentralised multi-currency digital international payments system.\n",
         "styles": {
             "self": {
                 "width": "narrow",
