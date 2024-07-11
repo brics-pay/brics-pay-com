@@ -278,7 +278,7 @@ sections:
             - BRICS PAY QR
             - BRICS Loyalty
             - BRICS PAY B2B
-            - ''
+            - BRICS CBDC
           width: full
           isRequired: false
       submitLabel: "Submit \U0001F680"
