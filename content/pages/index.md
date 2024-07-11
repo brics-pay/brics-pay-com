@@ -282,7 +282,7 @@ sections:
           name: message
           label: Message
           hideLabel: false
-          placeholder: Type your message here
+          placeholder: Type your message or question here
           width: full
           isRequired: false
         - name: updates Consent
