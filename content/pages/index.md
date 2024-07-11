@@ -234,7 +234,7 @@ sections:
     title: "Send a request to connect... \U0001F4AC"
     form:
       type: FormBlock
-      elementId: sign-up-form
+      elementId: form-request
       fields:
         - name: Full Name
           label: Full Name
