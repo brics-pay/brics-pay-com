@@ -239,7 +239,7 @@ sections:
         - name: Full Name
           label: Full Name
           hideLabel: true
-          placeholder: First Name
+          placeholder: Full Name
           isRequired: true
           width: 1/2
           type: TextFormControl
