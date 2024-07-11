@@ -215,7 +215,7 @@ sections:
         label: OPEN TO READ
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowUpRight
         iconPosition: right
         elementId: ''
