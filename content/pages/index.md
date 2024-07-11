@@ -294,7 +294,7 @@ sections:
       styles:
         submitLabel:
           textAlign: center
-      title: е
+      title: Form Request
     styles:
       self:
         height: auto
