@@ -264,11 +264,6 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updates Consent
-          label: I agree to the processing of my personal data.
-          isRequired: false
-          width: 1/2
-          type: CheckboxFormControl
         - type: SelectFormControl
           name: Product or topic
           label: 'Product or topic:'
@@ -283,6 +278,11 @@ sections:
             - Consultation
           width: full
           isRequired: false
+        - name: updates Consent
+          label: I agree to the processing of my personal data.
+          isRequired: false
+          width: 1/2
+          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
