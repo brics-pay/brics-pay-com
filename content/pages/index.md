@@ -216,7 +216,7 @@ sections:
         altText: ''
         url: /
         showIcon: false
-        icon: arrowRight
+        icon: arrowUpRight
         iconPosition: right
         elementId: ''
     media:
