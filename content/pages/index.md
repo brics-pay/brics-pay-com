@@ -124,47 +124,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-  - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/1.png
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/2.png
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/3.png
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-    colors: colors-f
-    spacing: 15
-    columns: 3
-    aspectRatio: '4:3'
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderStyle: none
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: HeroSection
     title: 5th BRICS Business CouncilAnnual Report 2018
     subtitle: ''
