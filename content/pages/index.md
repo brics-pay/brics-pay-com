@@ -125,29 +125,6 @@ sections:
       actions:
         justifyContent: flex-end
   - type: TextSection
-    colors: colors-d
-    variant: variant-b
-    title: Official documents
-    subtitle: ''
-    text: ''
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
-  - type: TextSection
     colors: colors-f
     variant: variant-b
     title: The Section Title
