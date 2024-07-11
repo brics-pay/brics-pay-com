@@ -68,7 +68,7 @@
                 "type": "Link",
                 "label": "connect →",
                 "altText": "",
-                "url": "form-request",
+                "url": "/Contact",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
