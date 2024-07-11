@@ -125,7 +125,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: TextSection
-    colors: colors-f
+    colors: colors-d
     variant: variant-b
     title: Official documents
     text: ''
