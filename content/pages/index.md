@@ -264,7 +264,7 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
+        - name: updates Consent
           label: I agree to the processing of my personal data.
           isRequired: false
           width: full
