@@ -210,16 +210,7 @@ sections:
   - type: HeroSection
     title: 7th BRICS Business CouncilAnnual Report 2020
     subtitle: ''
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/2.png
