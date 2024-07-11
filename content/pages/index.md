@@ -172,7 +172,7 @@ sections:
       - type: Link
         label: OPEN TO READ
         altText: ''
-        url: /
+        url: 'https://drive.google.com/file/d/1L5m5uw2_pab20DkrG9xYsKVa-00ASUxh/view'
         showIcon: true
         icon: arrowUpRight
         iconPosition: right
