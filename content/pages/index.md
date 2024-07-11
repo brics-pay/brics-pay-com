@@ -270,7 +270,7 @@ sections:
           width: 1/2
           type: CheckboxFormControl
         - type: SelectFormControl
-          name: subject
+          name: Product
           label: Subject
           hideLabel: false
           defaultValue: Please choose...
