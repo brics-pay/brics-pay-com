@@ -214,7 +214,7 @@ sections:
       - type: Link
         label: OPEN TO READ
         altText: ''
-        url: /
+        url: 'https://eng.brics-russia2020.ru/images/114/83/1148368.pdf'
         showIcon: true
         icon: arrowUpRight
         iconPosition: right
