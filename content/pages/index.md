@@ -283,7 +283,7 @@ sections:
           label: Message
           hideLabel: false
           placeholder: Type your message or question here
-          width: 1/2
+          width: full
           isRequired: false
         - name: updates Consent
           label: I agree to the processing of my personal data.
