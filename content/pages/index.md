@@ -273,7 +273,7 @@ sections:
           name: Product
           label: Product
           hideLabel: false
-          defaultValue: Please choose...
+          defaultValue: Press to select...
           options:
             - BRICS PAY QR
             - Other
