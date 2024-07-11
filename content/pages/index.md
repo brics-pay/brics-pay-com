@@ -276,7 +276,7 @@ sections:
           defaultValue: Press to select...
           options:
             - BRICS PAY QR
-            - Other
+            - BRICS Loyalty
           width: full
           isRequired: false
       submitLabel: "Submit \U0001F680"
