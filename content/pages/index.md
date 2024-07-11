@@ -283,6 +283,13 @@ sections:
           isRequired: true
           width: full
           type: CheckboxFormControl
+        - type: TextFormControl
+          name: phone
+          label: Name
+          hideLabel: false
+          placeholder: Your name
+          width: 1/2
+          isRequired: false
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
