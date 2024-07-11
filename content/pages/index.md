@@ -215,10 +215,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |+
-      5th BRICS Business Council
-      Annual Report 2018
-
+    text: ''
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
