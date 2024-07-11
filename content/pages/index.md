@@ -236,7 +236,7 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
+        - name: Full Name
           label: First Name
           hideLabel: true
           placeholder: First Name
