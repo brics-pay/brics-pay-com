@@ -169,15 +169,6 @@ sections:
     title: 5th BRICS Business CouncilAnnual Report 2018
     subtitle: ''
     actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
         label: Learn more
         altText: ''
