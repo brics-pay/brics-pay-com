@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "consortium",
-                "altText": "BRICS PAY",
+                "altText": "consortium BRICS PAY",
                 "url": "/consort",
                 "showIcon": false,
                 "icon": "arrowRight",
