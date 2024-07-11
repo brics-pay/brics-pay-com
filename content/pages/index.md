@@ -277,7 +277,7 @@ sections:
           options:
             - BRICS PAY QR
             - BRICS Loyalty
-            - ''
+            - BRICS PAY B2B
             - ''
           width: full
           isRequired: false
