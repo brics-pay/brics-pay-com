@@ -258,7 +258,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - type: TextFormControl
-          name: phone
+          name: 'Phone number '
           label: Name
           hideLabel: true
           placeholder: Phone number (whatsapp / telegram)
