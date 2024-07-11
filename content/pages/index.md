@@ -247,7 +247,7 @@ sections:
           label: Company
           hideLabel: true
           placeholder: Company / Organization
-          isRequired: false
+          isRequired: true
           width: 1/2
           type: TextFormControl
         - name: email
