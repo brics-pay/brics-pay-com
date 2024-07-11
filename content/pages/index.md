@@ -275,7 +275,7 @@ sections:
           hideLabel: false
           defaultValue: Please choose...
           options:
-            - Logo design
+            - BRICS PAY QR
             - Other
           width: full
           isRequired: false
