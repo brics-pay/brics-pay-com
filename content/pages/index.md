@@ -127,7 +127,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-b
-    title: The Section Title
+    title: Official documents
     text: ''
     elementId: ''
     styles:
