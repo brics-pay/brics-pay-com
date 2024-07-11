@@ -287,7 +287,7 @@ sections:
           isRequired: false
         - name: updates Consent
           label: I agree to the processing of my personal data.
-          isRequired: false
+          isRequired: true
           width: full
           type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
