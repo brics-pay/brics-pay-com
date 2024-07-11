@@ -272,7 +272,7 @@ sections:
         - type: SelectFormControl
           name: subject
           label: Subject
-          hideLabel: false
+          hideLabel: true
           defaultValue: Please choose...
           options:
             - BRICS PAY QR
