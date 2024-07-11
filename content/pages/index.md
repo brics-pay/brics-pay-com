@@ -170,7 +170,7 @@ sections:
     subtitle: ''
     actions:
       - type: Link
-        label: READ
+        label: OPEN TO READ
         altText: ''
         url: /
         showIcon: true
