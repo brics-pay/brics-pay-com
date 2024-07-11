@@ -271,7 +271,7 @@ sections:
           type: CheckboxFormControl
         - type: SelectFormControl
           name: Product or topic
-          label: Product
+          label: Product or topic
           hideLabel: false
           defaultValue: Press to select...
           options:
