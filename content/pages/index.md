@@ -249,9 +249,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 8th BRICS Business CouncilAnnual Report 2021
     subtitle: >-
       This is my info—I'm sharing it all this with ya'll to impress you with all
       the hard work I've done in the past few years. Once you're impressed, you
