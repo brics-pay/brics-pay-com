@@ -289,7 +289,7 @@ sections:
           hideLabel: false
           placeholder: Your name
           width: 1/2
-          isRequired: false
+          isRequired: true
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
