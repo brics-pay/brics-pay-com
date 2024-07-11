@@ -160,7 +160,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderStyle: solid
+        borderStyle: none
       title:
         textAlign: center
       subtitle:
