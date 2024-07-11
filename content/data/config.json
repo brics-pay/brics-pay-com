@@ -21,7 +21,7 @@
             {
                 "type": "Link",
                 "label": "BRICS PAY B2B ",
-                "altText": "",
+                "altText": "BRICS PAY B2B ",
                 "url": "/b2b",
                 "showIcon": false,
                 "icon": "arrowRight",
