@@ -246,7 +246,7 @@ sections:
         - name: Company / Organization
           label: Company
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Company / Organization
           isRequired: false
           width: 1/2
           type: TextFormControl
