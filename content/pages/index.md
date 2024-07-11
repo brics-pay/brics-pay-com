@@ -287,7 +287,7 @@ sections:
           name: phone
           label: Name
           hideLabel: true
-          placeholder: Phone number
+          placeholder: Phone number (whatsapp / telegram)
           width: 1/2
           isRequired: true
       submitLabel: "Submit \U0001F680"
