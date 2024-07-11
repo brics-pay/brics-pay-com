@@ -30,6 +30,11 @@
             },
             {
                 "type": "Link",
+                "label": "loyalty",
+                "url": "/projects"
+            },
+            {
+                "type": "Link",
                 "label": "BRICS PAY B2B ",
                 "altText": "BRICS PAY B2B ",
                 "url": "/b2b",
@@ -37,11 +42,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "loyalty",
-                "url": "/projects"
             },
             {
                 "type": "Link",
