@@ -255,7 +255,7 @@ sections:
       - type: Link
         label: OPEN TO READ
         altText: ''
-        url: /
+        url: 'https://brics2021.gov.in/brics/public/uploads/docpdf/getdocu-57.pdf'
         showIcon: true
         icon: arrowUpRight
         iconPosition: right
