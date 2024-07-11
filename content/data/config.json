@@ -30,7 +30,7 @@
             },
             {
                 "type": "Link",
-                "label": "p2p",
+                "label": "BRICS PAY QR",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
