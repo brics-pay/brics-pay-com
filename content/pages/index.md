@@ -35,6 +35,14 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |
+      **Open to innovations**
+
+      *   For all countries
+
+      *   For all forms of money
+
+      *   For all of humanity
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
