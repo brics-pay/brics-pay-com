@@ -126,7 +126,7 @@ sections:
         justifyContent: flex-end
   - type: TextSection
     colors: colors-d
-    variant: variant-b
+    variant: variant-a
     title: Official documents
     subtitle: ''
     text: ''
