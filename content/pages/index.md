@@ -184,7 +184,7 @@ sections:
       caption: Caption of the image
       elementId: ''
     colors: colors-d
-    backgroundSize: inset
+    backgroundSize: full
     elementId: ''
     styles:
       self:
