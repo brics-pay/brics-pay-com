@@ -166,7 +166,7 @@ sections:
       subtitle:
         textAlign: center
   - type: HeroSection
-    title: ''
+    title: 5th BRICS Business CouncilAnnual Report 2018
     subtitle: 5th BRICS Business CouncilAnnual Report 2018
     actions:
       - type: Button
