@@ -259,7 +259,7 @@ sections:
           type: EmailFormControl
         - name: address
           label: Address
-          hideLabel: false
+          hideLabel: true
           placeholder: Address
           isRequired: true
           width: 1/2
