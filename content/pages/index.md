@@ -269,6 +269,16 @@ sections:
           isRequired: false
           width: 1/2
           type: CheckboxFormControl
+        - type: SelectFormControl
+          name: subject
+          label: Subject
+          hideLabel: false
+          defaultValue: Please choose...
+          options:
+            - Logo design
+            - Other
+          width: full
+          isRequired: false
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
