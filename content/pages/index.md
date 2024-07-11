@@ -294,6 +294,7 @@ sections:
       styles:
         submitLabel:
           textAlign: center
+      title: е
     styles:
       self:
         height: auto
