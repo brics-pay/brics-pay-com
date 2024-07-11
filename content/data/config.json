@@ -82,7 +82,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/Frame 9.png",
+            "url": "/images/LOGO.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
