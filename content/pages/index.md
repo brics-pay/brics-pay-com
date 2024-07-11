@@ -174,7 +174,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: apple
+        icon: arrowLeftCircle
         iconPosition: right
         elementId: ''
     media:
