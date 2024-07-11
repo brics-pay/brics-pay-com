@@ -33,7 +33,7 @@
                 "label": "p2p",
                 "altText": "",
                 "url": "/",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
