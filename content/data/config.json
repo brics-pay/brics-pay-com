@@ -47,7 +47,7 @@
             {
                 "type": "Link",
                 "label": "BRICS CBDC",
-                "altText": "",
+                "altText": "BRICS CBDC",
                 "url": "/national",
                 "showIcon": false,
                 "icon": "arrowRight",
