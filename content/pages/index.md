@@ -277,6 +277,7 @@ sections:
           options:
             - BRICS PAY QR
             - BRICS Loyalty
+            - ''
           width: full
           isRequired: false
       submitLabel: "Submit \U0001F680"
