@@ -291,7 +291,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Read
+            label: READ
             altText: ''
             url: /
             showIcon: true
