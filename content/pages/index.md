@@ -254,7 +254,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: '39,3%'
+        title: Transparency
         subtitle: ''
         text: |
           Industrial production
