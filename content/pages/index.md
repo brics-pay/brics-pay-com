@@ -236,7 +236,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: READ
             altText: ''
             url: 'https://eng.brics-russia2020.ru/images/114/83/1148368.pdf'
             showIcon: true
