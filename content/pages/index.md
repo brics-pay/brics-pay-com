@@ -220,7 +220,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: '33,9%'
+        title: Decentralization
         subtitle: ''
         text: |
           The area of ​​the land
