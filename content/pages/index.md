@@ -200,14 +200,8 @@ sections:
       - type: FeaturedItem
         title: I'm Fast
         subtitle: ''
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-
-
-          [Tap to
-          read](https://create.netlify.com/studio/667940c94a181400c3cc15d9)
+        text: |
+          5th BRICS Business CouncilAnnual Report 2018
         featuredImage:
           type: ImageBlock
           url: /images/1.png
