@@ -259,7 +259,7 @@ sections:
           elementId: ''
         actions:
           - type: Link
-            label: Learn more
+            label: READ
             altText: ''
             url: >-
               https://brics2021.gov.in/brics/public/uploads/docpdf/getdocu-57.pdf
