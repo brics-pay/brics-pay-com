@@ -231,7 +231,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: '45,2%'
+        title: Inclusivity
         subtitle: ''
         text: |
           Population
