@@ -233,8 +233,11 @@ sections:
       - type: FeaturedItem
         title: Inclusivity
         subtitle: ''
-        text: |
-          Population
+        text: >
+          The system is accessible to all regardless of any factors (within the
+          law), ensures resilience to unilateral restrictive measures against
+          any country, access to the system is not controlled by any one party
+          or group of countries.
         actions: []
         elementId: ''
         styles:
