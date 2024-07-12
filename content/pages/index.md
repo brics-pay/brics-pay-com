@@ -118,7 +118,8 @@ sections:
       - type: FeaturedItem
         title: '24,5%'
         subtitle: ''
-        text: ''
+        text: |
+          Export volume
         elementId: ''
         styles:
           self:
