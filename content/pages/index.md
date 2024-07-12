@@ -168,7 +168,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: 'BRICS PAY: A Cornerstone for a Sovereign and Prosperous Nations'
-    text: >+
+    text: >
       **`Achieving financial independence is paramount for nations seeking
       political, energy, food, technological, and other forms of
       sovereignty.`**` `Full control over financial resources is necessary for
@@ -198,70 +198,6 @@ sections:
       individual on the planet has an equal opportunity to realize their full
       potential. Today, we lay the foundation for a new, just, and decentralized
       financial system – the financial system of the future.
-
-
-      ***
-
-
-      **Decentralized cross-border payment system BRICS PAY Basic Principles**
-
-
-      *   **Decentralization:** Financial flows are distributed among a large
-      number of participants, ensuring a variety of payment routes.
-
-
-      *   **Inclusivity:** The system is accessible to all regardless of any
-      factors (within the law), ensures resilience to unilateral restrictive
-      measures against any country, access to the system is not controlled by
-      any one party or group of countries.
-
-
-      *   **Efficiency:** Low costs, high speed of payments.
-
-
-      *   **Transparency:** Clear rules and provisions that are openly
-      communicated to all participants.
-
-
-      *   **Fairness:** No party receives an unfair advantage.
-
-
-      *   **Responsibility:** Parties are responsible for their actions and
-      decisions.
-
-
-      *   **Security:** Protection of information and transactions from fraud
-      and cyberattacks, reliability, and security of payments.
-
-
-      *   **Stability:** Contributes to economic stability and is resistant to
-      sanctions.
-
-
-      ***
-
-
-      **A nation's financial strength and wealth will no longer be determined by
-      proximity to global emission centers or the size of its derivatives
-      market.** Instead, the true measure of a nation's prosperity will lie in
-      its abundance of natural, cultural, industrial, intellectual, and human
-      resources.
-
-
-      ***
-
-
-      **To realize the BRICS Pay project, technological, financial, legal, and
-      consulting firms are uniting to form the BRICS Pay Consortium,** operating
-      under the principles of a decentralized autonomous organization (DAO). The
-      Consortium adheres to the regulations of each country where its members
-      operate. It is a network-based entity without a central headquarters. The
-      Consortium's membership is not publicly disclosed.
-
-
-      > For more detailed information, please visit the BRICS Pay Consortium
-      page.
-
     elementId: consortium
     styles:
       self:
