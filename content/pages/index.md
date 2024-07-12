@@ -198,7 +198,7 @@ sections:
     title: Official documents
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: 5th BRICS Business CouncilAnnual Report 2018
         subtitle: ''
         text: |
           5th BRICS Business CouncilAnnual Report 2018
