@@ -272,7 +272,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    title: 'BRICS Pay Consortium''s Areas of Focus:'
+    title: ''
     items:
       - type: FeaturedItem
         title: ''
