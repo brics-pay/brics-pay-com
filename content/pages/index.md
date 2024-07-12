@@ -263,7 +263,7 @@ sections:
             altText: ''
             url: >-
               https://brics2021.gov.in/brics/public/uploads/docpdf/getdocu-57.pdf
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             elementId: ''
