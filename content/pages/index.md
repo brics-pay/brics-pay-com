@@ -342,47 +342,6 @@ sections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    title: 7th BRICS Business Council Annual Report 2020
-    subtitle: ''
-    actions:
-      - type: Link
-        label: OPEN TO READ
-        altText: ''
-        url: 'https://eng.brics-russia2020.ru/images/114/83/1148368.pdf'
-        showIcon: true
-        icon: arrowUpRight
-        iconPosition: right
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/2.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-d
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: HeroSection
     title: 8th BRICS Business Council Annual Report 2021
     subtitle: ''
     actions:
