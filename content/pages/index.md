@@ -238,7 +238,7 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: 'https://eng.brics-russia2020.ru/images/114/83/1148368.pdf'
             showIcon: true
             icon: arrowRight
             iconPosition: right
