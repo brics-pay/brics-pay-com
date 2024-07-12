@@ -107,7 +107,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: '39,3%'
         subtitle: ''
         text: |
           Промышленное производство
