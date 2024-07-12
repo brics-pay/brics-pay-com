@@ -58,7 +58,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: FeaturedItemsSection
-    title: BRICS+ countries today
+    title: ''
     items:
       - type: FeaturedItem
         title: '33,9%'
