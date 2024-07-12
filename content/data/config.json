@@ -100,15 +100,15 @@
             },
             {
                 "type": "Link",
-                "label": "news",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
                 "altText": "Netlify templates"
+            },
+            {
+                "type": "Link",
+                "label": "news",
+                "url": "/blog",
+                "altText": ""
             },
             {
                 "type": "Link",
