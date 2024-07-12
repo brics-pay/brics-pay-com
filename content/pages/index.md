@@ -168,7 +168,6 @@ sections:
       striving for independent policies and the well-being of their citizens.
 
 
-
       **Financial sovereignty** empowers a nation to independently manage its
       financial resources and relationships, both domestically and
       internationally. It entails the freedom to make financial decisions and
@@ -176,12 +175,10 @@ sections:
       countries or international entities.
 
 
-
       **This resource encapsulates the collective expertise of BRICS Business
       Council members** from various nations, including those yet to formally
       join BRICS+ but committed to contributing to a new global financial and
       payments architecture within the BRICS+ framework.
-
 
 
       **The Bretton Woods-era global financial system is undergoing an
@@ -231,6 +228,7 @@ sections:
       sanctions.
 
 
+      ****
 
 
       **A nation's financial strength and wealth will no longer be determined by
@@ -240,6 +238,8 @@ sections:
       resources.
 
 
+      ****
+
 
       **To realize the BRICS Pay project, technological, financial, legal, and
       consulting firms are uniting to form the BRICS Pay Consortium,** operating
@@ -247,8 +247,6 @@ sections:
       Consortium adheres to the regulations of each country where its members
       operate. It is a network-based entity without a central headquarters. The
       Consortium's membership is not publicly disclosed.
-
-
 
 
       > For more detailed information, please visit the BRICS Pay Consortium
