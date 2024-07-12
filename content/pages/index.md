@@ -215,6 +215,118 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: FeaturedItemsSection
+    title: Decentralized cross-border payment system BRICS PAY Basic Principle
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Decentralization
+        subtitle: ''
+        text: >
+          Financial flows are distributed among a large number of participants,
+          ensuring a variety of payment routes.
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Inclusivity
+        subtitle: ''
+        text: >
+          The system is accessible to all regardless of any factors (within the
+          law), ensures resilience to unilateral restrictive measures against
+          any country, access to the system is not controlled by any one party
+          or group of countries.
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Efficiency
+        subtitle: ''
+        text: |
+          Low costs, high speed of payments.
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Transparency
+        subtitle: ''
+        text: >
+          Clear rules and provisions that are openly communicated to all
+          participants.
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Fairness
+        subtitle: ''
+        text: |
+          No party receives an unfair advantage.
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Responsibility
+        subtitle: ''
+        text: |
+          Parties are responsible for their actions and decisions.
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Security
+        subtitle: ''
+        text: >
+          Protection of information and transactions from fraud and
+          cyberattacks, reliability, and security of payments.
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Stability
+        subtitle: ''
+        text: |
+          Contributes to economic stability and is resistant to sanctions.
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: COUNTRIES
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderStyle: solid
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: LabelsSection
     title: 'BRICS Pay Consortium''s Areas of Focus:'
     subtitle: ''
