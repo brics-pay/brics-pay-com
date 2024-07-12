@@ -281,8 +281,7 @@ sections:
           9th BRICS Business Council Annual Report 2022
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/3.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
