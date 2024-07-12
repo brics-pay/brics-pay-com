@@ -201,7 +201,7 @@ sections:
         title: ''
         subtitle: ''
         text: |
-          5th BRICS Business CouncilAnnual Report 2018
+          5th BRICS Business Council Annual Report 2018
         featuredImage:
           type: ImageBlock
           url: /images/1.png
