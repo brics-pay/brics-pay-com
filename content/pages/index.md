@@ -257,6 +257,47 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: LabelsSection
+    title: 'BRICS Pay Consortium''s Areas of Focus:'
+    subtitle: ''
+    items:
+      - type: Label
+        label: BRICS CBDC - National Payment Systems
+        url: ''
+      - type: Label
+        label: BRICS Pay QR - Retail Payment System
+        url: ''
+      - type: Label
+        label: BRICS Pay B2B - Business Payment System
+        url: ''
+      - type: Label
+        label: BRICS+ Unit of Account
+        url: ''
+      - type: Label
+        label: BRICS Loyalty - Traveler Rewards System
+        url: ''
+      - type: Label
+        label: BRICS Mobile - Traveler Communication System
+        url: ''
+      - type: Label
+        label: BRICS ID - Traveler Identification System
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: FeaturedItemsSection
     title: ''
     items:
@@ -413,47 +454,6 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: ''
-  - type: LabelsSection
-    title: 'BRICS Pay Consortium''s Areas of Focus:'
-    subtitle: ''
-    items:
-      - type: Label
-        label: BRICS CBDC - National Payment Systems
-        url: ''
-      - type: Label
-        label: BRICS Pay QR - Retail Payment System
-        url: ''
-      - type: Label
-        label: BRICS Pay B2B - Business Payment System
-        url: ''
-      - type: Label
-        label: BRICS+ Unit of Account
-        url: ''
-      - type: Label
-        label: BRICS Loyalty - Traveler Rewards System
-        url: ''
-      - type: Label
-        label: BRICS Mobile - Traveler Communication System
-        url: ''
-      - type: Label
-        label: BRICS ID - Traveler Identification System
-        url: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
