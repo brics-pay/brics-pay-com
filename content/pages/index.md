@@ -303,15 +303,7 @@ sections:
         styles:
           self:
             textAlign: left
-    actions:
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: 'https://tass.ru/infographics/9519'
-        showIcon: true
-        icon: arrowUpRight
-        iconPosition: right
-        elementId: ''
+    actions: []
     colors: colors-f
     columns: 3
     spacingX: 16
