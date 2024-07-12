@@ -229,7 +229,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    title: 8th BRICS Business CouncilAnnual Report 2021
+    title: 9th BRICS Business Council Annual Report 2022
     subtitle: ''
     actions:
       - type: Link
