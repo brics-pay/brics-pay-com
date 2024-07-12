@@ -435,7 +435,7 @@ sections:
         label: BRICS CBDC - National Payment Systems
         url: ''
       - type: Label
-        label: React
+        label: BRICS Pay QR - Retail Payment System
         url: ''
       - type: Label
         label: Microsoft Office
