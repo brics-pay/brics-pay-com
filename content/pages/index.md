@@ -277,10 +277,8 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          BRICS CBDC - National Payment Systems[ (Learn more)](/)
         actions:
           - type: Button
             label: Learn more
