@@ -117,7 +117,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: '24,5%'
-        subtitle: Export volume
+        subtitle: ''
         text: ''
         elementId: ''
         styles:
