@@ -363,11 +363,11 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: BRICS Loyalty - Traveler Rewards System
             altText: ''
             url: /
             showIcon: true
-            icon: arrowRight
+            icon: arrowUpRight
             iconPosition: right
             elementId: ''
     actions: []
