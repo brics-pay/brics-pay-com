@@ -288,9 +288,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |+
-          #
-
+        text: ''
         actions:
           - type: Link
             label: Learn more
