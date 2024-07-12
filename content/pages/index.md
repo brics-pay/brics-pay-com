@@ -382,7 +382,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    title: 8th BRICS Business CouncilAnnual Report 2021
+    title: 8th BRICS Business Council Annual Report 2021
     subtitle: ''
     actions:
       - type: Link
