@@ -183,7 +183,7 @@ sections:
             url: /
             showIcon: true
             icon: arrowUpRight
-            iconPosition: left
+            iconPosition: right
             style: primary
             elementId: ''
         elementId: ''
