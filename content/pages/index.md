@@ -256,8 +256,9 @@ sections:
       - type: FeaturedItem
         title: Transparency
         subtitle: ''
-        text: |
-          Industrial production
+        text: >
+          Clear rules and provisions that are openly communicated to all
+          participants.
         actions: []
         elementId: ''
         styles:
