@@ -400,8 +400,8 @@ sections:
             label: BRICS ID - Traveler Identification System
             altText: ''
             url: /
-            showIcon: false
-            icon: arrowRight
+            showIcon: true
+            icon: arrowUpRight
             iconPosition: right
             elementId: ''
     actions: []
