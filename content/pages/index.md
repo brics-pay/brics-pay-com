@@ -178,7 +178,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: Open
             altText: ''
             url: /
             showIcon: true
