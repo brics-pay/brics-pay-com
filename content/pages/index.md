@@ -227,7 +227,6 @@ sections:
       resources.
 
 
-      #####
 
 
       **To realize the BRICS Pay project, technological, financial, legal, and
