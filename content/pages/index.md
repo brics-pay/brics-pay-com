@@ -178,7 +178,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: OPEN
+            label: RAED
             altText: ''
             url: /
             showIcon: true
