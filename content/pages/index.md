@@ -261,7 +261,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: READ
             altText: ''
             url: /
             showIcon: true
