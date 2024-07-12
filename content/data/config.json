@@ -114,7 +114,8 @@
                 "type": "Link",
                 "label": "Contact",
                 "url": "/#contact",
-                "altText": ""
+                "altText": "",
+                "showIcon": true
             }
         ],
         "contacts": {
