@@ -12,7 +12,7 @@
                 "type": "Link",
                 "label": "consortium",
                 "altText": "consortium BRICS PAY",
-                "url": "/consort",
+                "url": "/brics-consortium",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
