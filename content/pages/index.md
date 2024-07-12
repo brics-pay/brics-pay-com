@@ -450,7 +450,7 @@ sections:
         label: BRICS Mobile - Traveler Communication System
         url: ''
       - type: Label
-        label: Swift
+        label: BRICS ID - Traveler Identification System
         url: ''
     colors: colors-f
     elementId: ''
