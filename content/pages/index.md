@@ -344,7 +344,7 @@ sections:
         justifyContent: flex-start
     text: ''
   - type: HeroSection
-    title: 7th BRICS Business CouncilAnnual Report 2020
+    title: 7th BRICS Business Council Annual Report 2020
     subtitle: ''
     actions:
       - type: Link
