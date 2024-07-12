@@ -275,7 +275,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: '44,7%'
+        title: Responsibility
         subtitle: ''
         text: |
           Wheat harvest
