@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: This is a blog post title
-date: '1111-11-11'
+date: ''
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
