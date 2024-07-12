@@ -289,7 +289,7 @@ sections:
         title: ''
         subtitle: ''
         text: |+
-          ####
+          #
 
         actions:
           - type: Link
