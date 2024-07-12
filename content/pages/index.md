@@ -224,8 +224,9 @@ sections:
         subtitle: >-
           Financial flows are distributed among a large number of participants,
           ensuring a variety of payment routes.
-        text: |
-          The area of ​​the land
+        text: >
+          Financial flows are distributed among a large number of participants,
+          ensuring a variety of payment routes.
         actions: []
         elementId: ''
         styles:
