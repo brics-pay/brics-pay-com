@@ -131,7 +131,7 @@ sections:
     columns: 3
     spacingX: 16
     spacingY: 16
-    elementId: BRICS-COUNTRIES
+    elementId: COUNTRIES
     styles:
       self:
         height: auto
