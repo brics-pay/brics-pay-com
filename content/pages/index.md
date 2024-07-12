@@ -244,7 +244,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: '36,7%'
+        title: Efficiency
         subtitle: ''
         text: |+
           ВВП по ППС
