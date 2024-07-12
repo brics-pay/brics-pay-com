@@ -441,7 +441,7 @@ sections:
         label: BRICS Pay B2B - Business Payment System
         url: ''
       - type: Label
-        label: Next.js
+        label: BRICS+ Unit of Account
         url: ''
       - type: Label
         label: Netlify
