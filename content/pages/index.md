@@ -335,7 +335,7 @@ sections:
             altText: ''
             url: /
             showIcon: true
-            icon: arrowRight
+            icon: arrowUpRight
             iconPosition: right
             elementId: ''
     actions: []
