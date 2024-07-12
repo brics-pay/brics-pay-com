@@ -208,7 +208,16 @@ sections:
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions: []
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1L5m5uw2_pab20DkrG9xYsKVa-00ASUxh/view
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         elementId: ''
         styles:
           self:
