@@ -86,7 +86,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: '45,2%'
         subtitle: ''
         text: |
           Population
