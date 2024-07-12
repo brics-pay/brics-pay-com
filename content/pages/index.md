@@ -429,7 +429,7 @@ sections:
     subtitle: ''
   - type: LabelsSection
     title: 'BRICS Pay Consortium''s Areas of Focus:'
-    subtitle: The section subtitle
+    subtitle: 'BRICS Pay Consortium''s Areas of Focus:'
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
