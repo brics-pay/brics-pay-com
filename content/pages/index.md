@@ -219,13 +219,28 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      **A nation's financial strength and wealth will no longer be determined by
+      proximity to global emission centers or the size of its derivatives
+      market.** Instead, the true measure of a nation's prosperity will lie in
+      its abundance of natural, cultural, industrial, intellectual, and human
+      resources.
+
+
+      #####
+
+
+      **To realize the BRICS Pay project, technological, financial, legal, and
+      consulting firms are uniting to form the BRICS Pay Consortium,** operating
+      under the principles of a decentralized autonomous organization (DAO). The
+      Consortium adheres to the regulations of each country where its members
+      operate. It is a network-based entity without a central headquarters. The
+      Consortium's membership is not publicly disclosed.
+
+
+      > For more detailed information, please visit the BRICS Pay Consortium
+      page.
+
     elementId: ''
     styles:
       self:
