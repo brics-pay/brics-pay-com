@@ -257,17 +257,7 @@ sections:
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions:
-          - type: Button
-            label: READ
-            altText: ''
-            url: >-
-              https://brics2021.gov.in/brics/public/uploads/docpdf/getdocu-57.pdf
-            showIcon: true
-            icon: arrowUpRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
