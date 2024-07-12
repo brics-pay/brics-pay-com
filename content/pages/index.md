@@ -118,7 +118,15 @@ sections:
         styles:
           self:
             textAlign: left
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://tass.ru/infographics/9519'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     colors: colors-f
     columns: 3
     spacingX: 16
