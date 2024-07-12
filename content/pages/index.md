@@ -137,8 +137,8 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-28
-          - pb-36
+          - pt-20
+          - pb-20
           - pl-4
           - pr-4
         justifyContent: center
@@ -204,8 +204,8 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-28
-          - pb-28
+          - pt-20
+          - pb-20
           - pl-4
           - pr-4
         justifyContent: center
@@ -314,8 +314,8 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-28
-          - pb-36
+          - pt-20
+          - pb-20
           - pl-4
           - pr-4
         justifyContent: center
@@ -327,89 +327,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: LabelsSection
-    title: 'BRICS Pay Consortium''s Areas of Focus:'
-    subtitle: ''
-    items:
-      - type: Label
-        label: BRICS CBDC - National Payment Systems
-        url: ''
-      - type: Label
-        label: BRICS Pay QR - Retail Payment System
-        url: ''
-      - type: Label
-        label: BRICS Pay B2B - Business Payment System
-        url: ''
-      - type: Label
-        label: BRICS+ Unit of Account
-        url: ''
-      - type: Label
-        label: BRICS Loyalty - Traveler Rewards System
-        url: ''
-      - type: Label
-        label: BRICS Mobile - Traveler Communication System
-        url: ''
-      - type: Label
-        label: BRICS ID - Traveler Identification System
-        url: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    text: >+
-      **A nation's financial strength and wealth will no longer be determined by
-      proximity to global emission centers or the size of its derivatives
-      market.** Instead, the true measure of a nation's prosperity will lie in
-      its abundance of natural, cultural, industrial, intellectual, and human
-      resources.
-
-
-
-
-      **To realize the BRICS Pay project, technological, financial, legal, and
-      consulting firms are uniting to form the BRICS Pay Consortium,** operating
-      under the principles of a decentralized autonomous organization (DAO). The
-      Consortium adheres to the regulations of each country where its members
-      operate. It is a network-based entity without a central headquarters. The
-      Consortium's membership is not publicly disclosed.
-
-
-      > For more detailed information, please visit the BRICS Pay Consortium
-      page.
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-9
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: FeaturedItemsSection
     title: ''
     items:
@@ -554,8 +471,8 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-28
-          - pb-36
+          - pt-20
+          - pb-0
           - pl-4
           - pr-4
         justifyContent: center
@@ -566,6 +483,48 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: ''
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: ''
+    text: >+
+      **A nation's financial strength and wealth will no longer be determined by
+      proximity to global emission centers or the size of its derivatives
+      market.** Instead, the true measure of a nation's prosperity will lie in
+      its abundance of natural, cultural, industrial, intellectual, and human
+      resources.
+
+
+
+
+      **To realize the BRICS Pay project, technological, financial, legal, and
+      consulting firms are uniting to form the BRICS Pay Consortium,** operating
+      under the principles of a decentralized autonomous organization (DAO). The
+      Consortium adheres to the regulations of each country where its members
+      operate. It is a network-based entity without a central headquarters. The
+      Consortium's membership is not publicly disclosed.
+
+
+      > For more detailed information, please visit the BRICS Pay Consortium
+      page.
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-9
+          - pb-0
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -592,8 +551,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
+          - pt-20
+          - pb-20
           - pl-4
           - pr-4
         justifyContent: center
@@ -740,8 +699,8 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-28
-          - pb-28
+          - pt-20
+          - pb-20
           - pl-4
           - pr-4
         justifyContent: center
@@ -828,8 +787,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
+          - pt-20
+          - pb-20
           - pr-4
           - pl-4
         alignItems: center
