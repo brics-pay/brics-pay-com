@@ -233,7 +233,15 @@ sections:
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions: []
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: 'https://eng.brics-russia2020.ru/images/114/83/1148368.pdf'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         elementId: ''
         styles:
           self:
