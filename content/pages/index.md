@@ -110,7 +110,7 @@ sections:
         title: '39,3%'
         subtitle: ''
         text: |
-          Промышленное производство
+          Industrial production
         elementId: ''
         styles:
           self:
