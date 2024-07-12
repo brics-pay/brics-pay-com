@@ -787,7 +787,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-20
+          - pt-28
           - pb-20
           - pr-4
           - pl-4
