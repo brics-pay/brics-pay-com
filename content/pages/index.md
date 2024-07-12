@@ -242,7 +242,7 @@ sections:
             showIcon: true
             icon: arrowUpRight
             iconPosition: right
-            style: secondary
+            style: primary
             elementId: ''
         elementId: ''
         styles:
