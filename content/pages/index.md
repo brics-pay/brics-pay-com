@@ -299,8 +299,6 @@ sections:
         text: |+
 
 
-          #### BRICS Pay QR - Retail Payment System
-
         actions:
           - type: Link
             label: BRICS Pay QR - Retail Payment System
