@@ -287,10 +287,9 @@ sections:
       - type: FeaturedItem
         title: Security
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Protection of information and transactions from fraud and
+          cyberattacks, reliability, and security of payments.
         featuredImage:
           type: ImageBlock
           url: >-
