@@ -433,7 +433,7 @@ sections:
     items:
       - type: Label
         label: BRICS CBDC - National Payment Systems
-        url: ''
+        url: /
       - type: Label
         label: React
         url: ''
