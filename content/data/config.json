@@ -130,7 +130,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "loyalty",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
