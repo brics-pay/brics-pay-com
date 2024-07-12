@@ -1,0 +1,149 @@
+{
+    "model": "FeaturedItemsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "list",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "duplicate"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "BRICS+ countries today",
+                "subtitle": "",
+                "items": [
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "33,9%",
+                        "subtitle": "",
+                        "text": "The area of ​​the land\n",
+                        "featuredImage": null,
+                        "actions": [],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "45,2%",
+                        "subtitle": "",
+                        "text": "Population\n",
+                        "featuredImage": null,
+                        "actions": [],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "36,7%",
+                        "subtitle": "",
+                        "text": "ВВП по ППС\n\n",
+                        "featuredImage": null,
+                        "actions": [],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "39,3%",
+                        "subtitle": "",
+                        "text": "Industrial production\n",
+                        "featuredImage": null,
+                        "actions": [],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "24,5%",
+                        "subtitle": "",
+                        "text": "Export volume\n",
+                        "featuredImage": null,
+                        "actions": [],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItem",
+                        "title": "44,7%",
+                        "subtitle": "",
+                        "text": "Wheat harvest\n",
+                        "featuredImage": null,
+                        "actions": [],
+                        "elementId": "",
+                        "styles": {
+                            "self": {
+                                "textAlign": "left"
+                            }
+                        }
+                    }
+                ],
+                "actions": [
+                    {
+                        "$$type": "Link",
+                        "label": "Learn more",
+                        "altText": "",
+                        "url": "https://tass.ru/infographics/9519",
+                        "showIcon": true,
+                        "icon": "arrowUpRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    }
+                ],
+                "colors": "colors-f",
+                "columns": 3,
+                "spacingX": 16,
+                "spacingY": 16,
+                "elementId": "COUNTRIES",
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "padding": [
+                            "pt-28",
+                            "pb-36",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "justifyContent": "center",
+                        "borderRadius": "none",
+                        "borderStyle": "solid"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-items-section-list-8a6d.png"
+        }
+    ]
+}
