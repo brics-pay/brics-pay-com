@@ -88,10 +88,8 @@ sections:
       - type: FeaturedItem
         title: I'm Smart
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          Population
         featuredImage:
           type: ImageBlock
           url: >-
