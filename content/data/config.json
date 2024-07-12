@@ -115,7 +115,8 @@
                 "label": "Contact",
                 "url": "/#contact",
                 "altText": "",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "arrowUpRight"
             }
         ],
         "contacts": {
