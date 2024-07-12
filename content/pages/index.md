@@ -306,28 +306,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TextSection
-    colors: colors-d
-    variant: variant-b
-    title: Official documents
-    text: ''
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: HeroSection
     title: 5th BRICS Business CouncilAnnual Report 2018
     subtitle: ''
