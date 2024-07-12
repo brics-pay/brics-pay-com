@@ -438,7 +438,7 @@ sections:
         label: BRICS Pay QR - Retail Payment System
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: BRICS Pay B2B - Business Payment System
         url: ''
       - type: Label
         label: Next.js
