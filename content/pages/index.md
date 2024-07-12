@@ -124,7 +124,7 @@ sections:
         altText: ''
         url: 'https://tass.ru/infographics/9519'
         showIcon: true
-        icon: arrowRight
+        icon: arrowUpRight
         iconPosition: right
         elementId: ''
     colors: colors-f
