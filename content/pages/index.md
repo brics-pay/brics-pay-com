@@ -11,7 +11,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
           - mt-0
           - mb-0
@@ -49,7 +49,7 @@ sections:
     elementId: ''
     styles:
       self:
-        width: wide
+        width: narrow
         padding:
           - pt-1
           - pb-1
@@ -135,7 +135,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-20
           - pb-20
@@ -156,7 +156,7 @@ sections:
     elementId: ''
     styles:
       self:
-        width: wide
+        width: narrow
         padding:
           - pt-1
           - pb-1
@@ -305,14 +305,14 @@ sections:
             textAlign: left
     actions: []
     colors: colors-f
-    columns: 1
+    columns: 2
     spacingX: 16
     spacingY: 16
     elementId: COUNTRIES
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-20
           - pb-20
@@ -544,7 +544,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
           - mt-0
           - mb-0
@@ -697,7 +697,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-20
           - pb-20
