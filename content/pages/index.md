@@ -215,7 +215,7 @@ sections:
             url: >-
               https://drive.google.com/file/d/1L5m5uw2_pab20DkrG9xYsKVa-00ASUxh/view
             showIcon: false
-            icon: arrowRight
+            icon: arrowUpRight
             iconPosition: right
             elementId: ''
         elementId: ''
