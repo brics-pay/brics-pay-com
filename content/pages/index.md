@@ -397,7 +397,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: BRICS ID - Traveler Identification System
             altText: ''
             url: /
             showIcon: false
