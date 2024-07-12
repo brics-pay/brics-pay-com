@@ -162,10 +162,11 @@ sections:
     title: 'BRICS PAY: A Cornerstone for a Sovereign and Prosperous Nations'
     text: >+
       **`Achieving financial independence is paramount for nations seeking
-      political, energy, food, technological, and other forms of sovereignty.`
-      **Full control over financial resources is necessary for countries to
-      achieve true sovereignty. This pursuit is a shared goal among nations
-      striving for independent policies and the well-being of their citizens.
+      political, energy, food, technological, and other forms of
+      sovereignty.`**` `Full control over financial resources is necessary for
+      countries to achieve true sovereignty. This pursuit is a shared goal among
+      nations striving for independent policies and the well-being of their
+      citizens.
 
 
       **Financial sovereignty** empowers a nation to independently manage its
