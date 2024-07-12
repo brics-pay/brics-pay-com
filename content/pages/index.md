@@ -331,7 +331,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: BRICS Pay B2B - Business Payment System
             altText: ''
             url: /
             showIcon: true
