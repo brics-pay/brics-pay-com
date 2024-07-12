@@ -106,12 +106,6 @@
             },
             {
                 "type": "Link",
-                "label": "news",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "brics pay qr",
                 "altText": "",
                 "url": "/",
@@ -159,6 +153,12 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "news",
+                "url": "/blog",
+                "altText": ""
             },
             {
                 "type": "Link",
