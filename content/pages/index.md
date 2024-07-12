@@ -327,47 +327,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: LabelsSection
-    title: 'BRICS Pay Consortium''s Areas of Focus:'
-    subtitle: ''
-    items:
-      - type: Label
-        label: BRICS CBDC - National Payment Systems
-        url: ''
-      - type: Label
-        label: BRICS Pay QR - Retail Payment System
-        url: ''
-      - type: Label
-        label: BRICS Pay B2B - Business Payment System
-        url: ''
-      - type: Label
-        label: BRICS+ Unit of Account
-        url: ''
-      - type: Label
-        label: BRICS Loyalty - Traveler Rewards System
-        url: ''
-      - type: Label
-        label: BRICS Mobile - Traveler Communication System
-        url: ''
-      - type: Label
-        label: BRICS ID - Traveler Identification System
-        url: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: TextSection
     colors: colors-f
     variant: variant-a
