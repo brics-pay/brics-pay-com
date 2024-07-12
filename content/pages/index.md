@@ -362,7 +362,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: ''
+    subtitle: 'BRICS Pay Consortium''s Areas of Focus:'
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
