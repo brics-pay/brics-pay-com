@@ -268,7 +268,7 @@ sections:
         title: Fairness
         subtitle: ''
         text: |
-          Export volume
+          No party receives an unfair advantage.
         actions: []
         elementId: ''
         styles:
