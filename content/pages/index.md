@@ -294,7 +294,7 @@ sections:
             label: BRICS CBDC - National Payment Systems
             altText: ''
             url: /
-            showIcon: false
+            showIcon: true
             icon: arrowUpRight
             iconPosition: right
             elementId: ''
