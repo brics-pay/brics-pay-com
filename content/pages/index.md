@@ -275,7 +275,7 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
-        title: I'm Focused
+        title: 'BRICS Pay Consortium''s Areas of Focus:'
         subtitle: ''
         text: |+
           #### BRICS Pay Consortium's Areas of Focus:
