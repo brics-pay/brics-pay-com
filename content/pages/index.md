@@ -191,6 +191,7 @@ sections:
       financial system – the financial system of the future.
 
 
+      ****
 
 
       **Decentralized cross-border payment system BRICS PAY Basic Principles**
