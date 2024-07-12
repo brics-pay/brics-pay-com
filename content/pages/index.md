@@ -76,7 +76,7 @@ sections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: '33,9%'
         subtitle: ''
         text: |
           The area of ​​the land
