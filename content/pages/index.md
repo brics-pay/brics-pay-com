@@ -279,7 +279,15 @@ sections:
         subtitle: ''
         text: |
           BRICS CBDC - National Payment Systems[ (Learn more)](/)
-        actions: []
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         elementId: ''
         styles:
           self:
