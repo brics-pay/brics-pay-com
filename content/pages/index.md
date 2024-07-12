@@ -262,7 +262,7 @@ sections:
       > For more detailed information, please visit the BRICS Pay Consortium
       page.
 
-    elementId: ''
+    elementId: brics-consortium
     styles:
       self:
         height: auto
