@@ -240,7 +240,7 @@ sections:
             altText: ''
             url: 'https://eng.brics-russia2020.ru/images/114/83/1148368.pdf'
             showIcon: true
-            icon: arrowRight
+            icon: arrowUpRight
             iconPosition: right
             style: primary
             elementId: ''
