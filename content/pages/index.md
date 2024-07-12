@@ -45,7 +45,7 @@ sections:
       *   for all of humanity
 
   - type: FeaturedProjectsSection
-    subtitle: 'BRICS+ countries today:'
+    subtitle: ''
     actions: []
     projects:
       - content/pages/projects/project-one.md
