@@ -291,7 +291,7 @@ sections:
         text: ''
         actions:
           - type: Link
-            label: Learn more
+            label: BRICS CBDC - National Payment Systems
             altText: ''
             url: /
             showIcon: false
