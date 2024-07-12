@@ -305,7 +305,7 @@ sections:
             textAlign: left
     actions: []
     colors: colors-f
-    columns: 3
+    columns: 1
     spacingX: 16
     spacingY: 16
     elementId: COUNTRIES
