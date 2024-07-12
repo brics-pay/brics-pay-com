@@ -303,7 +303,7 @@ sections:
 
         actions:
           - type: Link
-            label: Learn more
+            label: BRICS Pay QR - Retail Payment System
             altText: ''
             url: /
             showIcon: true
