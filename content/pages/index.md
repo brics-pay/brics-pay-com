@@ -265,7 +265,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: '24,5%'
+        title: Fairness
         subtitle: ''
         text: |
           Export volume
