@@ -238,8 +238,8 @@ sections:
             label: READ
             altText: ''
             url: 'https://eng.brics-russia2020.ru/images/114/83/1148368.pdf'
-            showIcon: false
-            icon: arrowRight
+            showIcon: true
+            icon: arrowUpRight
             iconPosition: right
             elementId: ''
         elementId: ''
