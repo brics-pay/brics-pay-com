@@ -215,6 +215,103 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: FeaturedItemsSection
+    title: BRICS+ countries today
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: '33,9%'
+        subtitle: ''
+        text: |
+          The area of ​​the land
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: '45,2%'
+        subtitle: ''
+        text: |
+          Population
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: '36,7%'
+        subtitle: ''
+        text: |+
+          ВВП по ППС
+
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: '39,3%'
+        subtitle: ''
+        text: |
+          Industrial production
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: '24,5%'
+        subtitle: ''
+        text: |
+          Export volume
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: '44,7%'
+        subtitle: ''
+        text: |
+          Wheat harvest
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://tass.ru/infographics/9519'
+        showIcon: true
+        icon: arrowUpRight
+        iconPosition: right
+        elementId: ''
+    colors: colors-f
+    columns: 3
+    spacingX: 16
+    spacingY: 16
+    elementId: COUNTRIES
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderStyle: solid
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: LabelsSection
     title: 'BRICS Pay Consortium''s Areas of Focus:'
     subtitle: ''
