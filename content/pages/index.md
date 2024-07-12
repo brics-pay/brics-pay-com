@@ -221,7 +221,9 @@ sections:
     items:
       - type: FeaturedItem
         title: Decentralization
-        subtitle: ''
+        subtitle: >-
+          Financial flows are distributed among a large number of participants,
+          ensuring a variety of payment routes.
         text: |
           The area of ​​the land
         actions: []
