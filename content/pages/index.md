@@ -118,10 +118,7 @@ sections:
       - type: FeaturedItem
         title: '24,5%'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         elementId: ''
         styles:
           self:
