@@ -380,7 +380,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: BRICS Mobile - Traveler Communication System
             altText: ''
             url: /
             showIcon: false
