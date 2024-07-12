@@ -447,7 +447,7 @@ sections:
         label: BRICS Loyalty - Traveler Rewards System
         url: ''
       - type: Label
-        label: Pancakes
+        label: BRICS Mobile - Traveler Communication System
         url: ''
       - type: Label
         label: Swift
