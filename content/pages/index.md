@@ -123,7 +123,7 @@ sections:
         label: Learn more
         altText: ''
         url: 'https://tass.ru/infographics/9519'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
