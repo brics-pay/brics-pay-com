@@ -278,7 +278,7 @@ sections:
         title: Responsibility
         subtitle: ''
         text: |
-          Wheat harvest
+          Parties are responsible for their actions and decisions.
         actions: []
         elementId: ''
         styles:
