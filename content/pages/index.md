@@ -290,13 +290,6 @@ sections:
         text: >
           Protection of information and transactions from fraud and
           cyberattacks, reliability, and security of payments.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
