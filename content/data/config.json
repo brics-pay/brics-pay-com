@@ -117,17 +117,6 @@
                 "altText": "",
                 "showIcon": true,
                 "icon": "arrowUpRight"
-            },
-            {
-                "type": "Button",
-                "label": "Learn more",
-                "altText": "",
-                "url": "/",
-                "showIcon": true,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
             }
         ],
         "contacts": {
