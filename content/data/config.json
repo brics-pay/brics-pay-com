@@ -112,14 +112,6 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "/#contact",
-                "altText": "",
-                "showIcon": true,
-                "icon": "arrowUpRight"
-            },
-            {
-                "type": "Link",
                 "label": "brics pay qr",
                 "altText": "",
                 "url": "/",
@@ -167,6 +159,14 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Contact",
+                "url": "/#contact",
+                "altText": "",
+                "showIcon": true,
+                "icon": "arrowUpRight"
             }
         ],
         "contacts": {
