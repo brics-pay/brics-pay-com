@@ -195,7 +195,7 @@ sections:
         justifyContent: flex-end
     subtitle: Projects
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Official documents
     items:
       - type: FeaturedItem
         title: I'm Fast
