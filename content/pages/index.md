@@ -313,6 +313,15 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
     actions: []
     colors: colors-d
     columns: 3
