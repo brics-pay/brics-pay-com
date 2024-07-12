@@ -246,9 +246,8 @@ sections:
       - type: FeaturedItem
         title: Efficiency
         subtitle: ''
-        text: |+
-          ВВП по ППС
-
+        text: |
+          Low costs, high speed of payments.
         actions: []
         elementId: ''
         styles:
