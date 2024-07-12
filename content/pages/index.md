@@ -204,8 +204,8 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-20
-          - pb-20
+          - pt-28
+          - pb-0
           - pl-4
           - pr-4
         justifyContent: center
@@ -314,8 +314,8 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-20
-          - pb-20
+          - pt-28
+          - pb-0
           - pl-4
           - pr-4
         justifyContent: center
@@ -471,7 +471,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-20
+          - pt-28
           - pb-0
           - pl-4
           - pr-4
@@ -551,8 +551,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-20
-          - pb-20
+          - pt-28
+          - pb-0
           - pl-4
           - pr-4
         justifyContent: center
@@ -699,8 +699,8 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-20
-          - pb-20
+          - pt-28
+          - pb-0
           - pl-4
           - pr-4
         justifyContent: center
@@ -787,8 +787,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-20
-          - pb-20
+          - pt-28
+          - pb-12
           - pr-4
           - pl-4
         alignItems: center
