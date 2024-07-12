@@ -142,7 +142,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: BRICS+ countries today
+    subtitle: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
