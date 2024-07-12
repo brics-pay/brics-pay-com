@@ -249,7 +249,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: ''
         subtitle: ''
         text: |
           8th BRICS Business Council Annual Report 2021
