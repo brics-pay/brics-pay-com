@@ -289,7 +289,7 @@ sections:
         title: ''
         subtitle: ''
         text: |+
-          #### BRICS CBDC - National Payment Systems
+          ####
 
         actions:
           - type: Link
