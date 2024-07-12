@@ -143,6 +143,19 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: ''
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-1
+          - pb-1
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
