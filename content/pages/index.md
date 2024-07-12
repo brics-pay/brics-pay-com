@@ -251,10 +251,8 @@ sections:
       - type: FeaturedItem
         title: I'm Focused
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          8th BRICS Business Council Annual Report 2021
         featuredImage:
           type: ImageBlock
           url: >-
