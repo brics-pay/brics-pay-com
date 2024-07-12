@@ -700,7 +700,7 @@ sections:
         width: narrow
         padding:
           - pt-28
-          - pb-20
+          - pb-0
           - pl-4
           - pr-4
         justifyContent: center
