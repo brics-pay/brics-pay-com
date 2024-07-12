@@ -100,12 +100,6 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "/#contact",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "news",
                 "url": "/blog",
                 "altText": ""
@@ -115,6 +109,12 @@
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
                 "altText": "Netlify templates"
+            },
+            {
+                "type": "Link",
+                "label": "Contact",
+                "url": "/#contact",
+                "altText": ""
             }
         ],
         "contacts": {
