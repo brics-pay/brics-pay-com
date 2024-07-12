@@ -230,8 +230,7 @@ sections:
           7th BRICS Business Council Annual Report 2020
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/2.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
