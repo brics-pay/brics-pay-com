@@ -342,47 +342,6 @@ sections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    title: 9th BRICS Business Council Annual Report 2022
-    subtitle: ''
-    actions:
-      - type: Link
-        label: OPEN TO READ
-        altText: ''
-        url: 'https://brics2021.gov.in/brics/public/uploads/docpdf/getdocu-57.pdf'
-        showIcon: true
-        icon: arrowUpRight
-        iconPosition: right
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/3.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-d
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: HeroSection
     title: 10th BRICS Business Council Annual Report 2023
     subtitle: ''
     actions:
