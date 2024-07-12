@@ -444,7 +444,7 @@ sections:
         label: BRICS+ Unit of Account
         url: ''
       - type: Label
-        label: Netlify
+        label: BRICS Loyalty - Traveler Rewards System
         url: ''
       - type: Label
         label: Pancakes
