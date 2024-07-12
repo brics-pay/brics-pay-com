@@ -198,7 +198,7 @@ sections:
     title: Official documents
     items:
       - type: FeaturedItem
-        title: 5th BRICS Business CouncilAnnual Report 2018
+        title: ''
         subtitle: ''
         text: |
           5th BRICS Business CouncilAnnual Report 2018
