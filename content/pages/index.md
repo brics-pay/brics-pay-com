@@ -44,37 +44,6 @@ sections:
 
       *   for all of humanity
 
-  - type: FeaturedProjectsSection
-    subtitle: BRICS+ countries today
-    actions: []
-    projects:
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-    colors: colors-f
-    variant: variant-b
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
