@@ -428,7 +428,7 @@ sections:
         justifyContent: flex-start
     subtitle: ''
   - type: LabelsSection
-    title: Skills
+    title: 'BRICS Pay Consortium''s Areas of Focus:'
     subtitle: The section subtitle
     items:
       - type: Label
