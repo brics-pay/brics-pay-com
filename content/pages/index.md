@@ -297,6 +297,8 @@ sections:
         title: ''
         subtitle: ''
         text: |+
+
+
           #### BRICS Pay QR - Retail Payment System
 
         actions:
