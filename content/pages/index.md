@@ -277,8 +277,9 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |
-          BRICS CBDC - National Payment Systems[ (Learn more)](/)
+        text: |+
+          ##### BRICS CBDC - National Payment Systems
+
         actions:
           - type: Link
             label: Learn more
