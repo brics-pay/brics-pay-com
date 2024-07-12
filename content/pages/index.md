@@ -342,48 +342,6 @@ sections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    title: 5th BRICS Business CouncilAnnual Report 2018
-    subtitle: ''
-    actions:
-      - type: Link
-        label: OPEN TO READ
-        altText: ''
-        url: 'https://drive.google.com/file/d/1L5m5uw2_pab20DkrG9xYsKVa-00ASUxh/view'
-        showIcon: true
-        icon: arrowUpRight
-        iconPosition: right
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/1.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-d
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    text: ''
-  - type: HeroSection
     title: 7th BRICS Business Council Annual Report 2020
     subtitle: ''
     actions:
