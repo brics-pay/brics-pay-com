@@ -216,7 +216,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    title: BRICS+ countries today
+    title: Decentralized cross-border payment system BRICS PAY Basic Principle
     subtitle: ''
     items:
       - type: FeaturedItem
