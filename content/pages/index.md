@@ -388,7 +388,7 @@ sections:
             iconPosition: right
             elementId: ''
       - type: FeaturedItem
-        title: Item Title
+        title: ''
         subtitle: ''
         text: ''
         elementId: ''
