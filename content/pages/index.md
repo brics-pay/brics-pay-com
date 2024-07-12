@@ -44,6 +44,416 @@ sections:
 
       *   for all of humanity
 
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-1
+          - pb-1
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: FeaturedItemsSection
+    title: BRICS+ countries today
+    items:
+      - type: FeaturedItem
+        title: '33,9%'
+        subtitle: ''
+        text: |
+          The area of ​​the land
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: '45,2%'
+        subtitle: ''
+        text: |
+          Population
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: '36,7%'
+        subtitle: ''
+        text: |+
+          ВВП по ППС
+
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: '39,3%'
+        subtitle: ''
+        text: |
+          Industrial production
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: '24,5%'
+        subtitle: ''
+        text: |
+          Export volume
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: '44,7%'
+        subtitle: ''
+        text: |
+          Wheat harvest
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://tass.ru/infographics/9519'
+        showIcon: true
+        icon: arrowUpRight
+        iconPosition: right
+        elementId: ''
+    colors: colors-f
+    columns: 3
+    spacingX: 16
+    spacingY: 16
+    elementId: COUNTRIES
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderStyle: solid
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    subtitle: ''
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-1
+          - pb-1
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: 'BRICS PAY: A Cornerstone for a Sovereign and Prosperous Nations'
+    text: >
+      **`Achieving financial independence is paramount for nations seeking
+      political, energy, food, technological, and other forms of
+      sovereignty.`**` `Full control over financial resources is necessary for
+      countries to achieve true sovereignty. This pursuit is a shared goal among
+      nations striving for independent policies and the well-being of their
+      citizens.
+
+
+      **Financial sovereignty** empowers a nation to independently manage its
+      financial resources and relationships, both domestically and
+      internationally. It entails the freedom to make financial decisions and
+      take financial actions without external influence or coercion from other
+      countries or international entities.
+
+
+      **This resource encapsulates the collective expertise of BRICS Business
+      Council members** from various nations, including those yet to formally
+      join BRICS+ but committed to contributing to a new global financial and
+      payments architecture within the BRICS+ framework.
+
+
+      **The Bretton Woods-era global financial system is undergoing an
+      inevitable transformation.** We witness the accelerating growth of global
+      debt, the widening gap in wealth distribution, and the disintegration of
+      global trade and finance systems. Our endeavors aim to establish equal
+      access to financial technologies and global wealth, ensuring that every
+      individual on the planet has an equal opportunity to realize their full
+      potential. Today, we lay the foundation for a new, just, and decentralized
+      financial system – the financial system of the future.
+    elementId: consortium
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+  - type: LabelsSection
+    title: 'BRICS Pay Consortium''s Areas of Focus:'
+    subtitle: ''
+    items:
+      - type: Label
+        label: BRICS CBDC - National Payment Systems
+        url: ''
+      - type: Label
+        label: BRICS Pay QR - Retail Payment System
+        url: ''
+      - type: Label
+        label: BRICS Pay B2B - Business Payment System
+        url: ''
+      - type: Label
+        label: BRICS+ Unit of Account
+        url: ''
+      - type: Label
+        label: BRICS Loyalty - Traveler Rewards System
+        url: ''
+      - type: Label
+        label: BRICS Mobile - Traveler Communication System
+        url: ''
+      - type: Label
+        label: BRICS ID - Traveler Identification System
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-0
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: ''
+    text: >+
+      **A nation's financial strength and wealth will no longer be determined by
+      proximity to global emission centers or the size of its derivatives
+      market.** Instead, the true measure of a nation's prosperity will lie in
+      its abundance of natural, cultural, industrial, intellectual, and human
+      resources.
+
+
+
+
+      **To realize the BRICS Pay project, technological, financial, legal, and
+      consulting firms are uniting to form the BRICS Pay Consortium,** operating
+      under the principles of a decentralized autonomous organization (DAO). The
+      Consortium adheres to the regulations of each country where its members
+      operate. It is a network-based entity without a central headquarters. The
+      Consortium's membership is not publicly disclosed.
+
+
+      > For more detailed information, please visit the BRICS Pay Consortium
+      page.
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-9
+          - pb-0
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+  - type: FeaturedItemsSection
+    title: ''
+    items:
+      - type: FeaturedItem
+        title: 'BRICS Pay Consortium''s Areas of Focus:'
+        subtitle: ''
+        text: |+
+
+
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        actions:
+          - type: Link
+            label: BRICS CBDC - National Payment Systems
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        actions:
+          - type: Link
+            label: BRICS Pay QR - Retail Payment System
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: BRICS Pay B2B - Business Payment System
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            elementId: ''
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: BRICS+ Unit of Account
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            elementId: ''
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: BRICS Loyalty - Traveler Rewards System
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            elementId: ''
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: BRICS Mobile - Traveler Communication System
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            elementId: ''
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: BRICS ID - Traveler Identification System
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            elementId: ''
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    subtitle: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -82,11 +492,136 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
-  - type: TextSection
-    colors: colors-d
-    variant: variant-b
+  - type: FeaturedItemsSection
     title: Official documents
-    text: ''
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: |
+          5th BRICS Business Council Annual Report 2018
+        featuredImage:
+          type: ImageBlock
+          url: /images/1.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Link
+            label: READ
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1L5m5uw2_pab20DkrG9xYsKVa-00ASUxh/view
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: |
+          7th BRICS Business Council Annual Report 2020
+        featuredImage:
+          type: ImageBlock
+          url: /images/2.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Link
+            label: READ
+            altText: ''
+            url: 'https://eng.brics-russia2020.ru/images/114/83/1148368.pdf'
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: |
+          8th BRICS Business Council Annual Report 2021
+        featuredImage:
+          type: ImageBlock
+          url: /images/3.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Link
+            label: READ
+            altText: ''
+            url: >-
+              https://brics2021.gov.in/brics/public/uploads/docpdf/getdocu-57.pdf
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: |
+          9th BRICS Business Council Annual Report 2022
+        featuredImage:
+          type: ImageBlock
+          url: /images/3.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: READ
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            elementId: ''
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: |
+          10th BRICS Business Council Annual Report 2023
+        featuredImage:
+          type: ImageBlock
+          url: /images/3.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: READ
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowUpRight
+            iconPosition: right
+            elementId: ''
+    actions: []
+    colors: colors-f
+    columns: 3
+    spacingX: 16
+    spacingY: 16
     elementId: ''
     styles:
       self:
@@ -94,137 +629,13 @@ sections:
         width: wide
         padding:
           - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-  - type: HeroSection
-    title: 5th BRICS Business CouncilAnnual Report 2018
-    subtitle: ''
-    actions:
-      - type: Link
-        label: OPEN TO READ
-        altText: ''
-        url: 'https://drive.google.com/file/d/1L5m5uw2_pab20DkrG9xYsKVa-00ASUxh/view'
-        showIcon: true
-        icon: arrowUpRight
-        iconPosition: right
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/1.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-d
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    text: ''
-  - type: HeroSection
-    title: 7th BRICS Business CouncilAnnual Report 2020
-    subtitle: ''
-    actions:
-      - type: Link
-        label: OPEN TO READ
-        altText: ''
-        url: 'https://eng.brics-russia2020.ru/images/114/83/1148368.pdf'
-        showIcon: true
-        icon: arrowUpRight
-        iconPosition: right
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/2.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-d
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: HeroSection
-    title: 8th BRICS Business CouncilAnnual Report 2021
-    subtitle: ''
-    actions:
-      - type: Link
-        label: OPEN TO READ
-        altText: ''
-        url: 'https://brics2021.gov.in/brics/public/uploads/docpdf/getdocu-57.pdf'
-        showIcon: true
-        icon: arrowUpRight
-        iconPosition: right
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/3.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-d
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
           - pb-28
           - pl-4
           - pr-4
-        alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
       title:
         textAlign: left
       subtitle:
-        textAlign: left
-      text:
         textAlign: left
       actions:
         justifyContent: flex-start
@@ -316,7 +727,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    elementId: form-request
+    elementId: contact
 backgroundImage:
   type: BackgroundImage
   url: /images/Covers.png

@@ -12,7 +12,7 @@
                 "type": "Link",
                 "label": "consortium",
                 "altText": "consortium BRICS PAY",
-                "url": "/consort",
+                "url": "/consortium",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -68,7 +68,7 @@
                 "type": "Link",
                 "label": "connect →",
                 "altText": "",
-                "url": "#contact",
+                "url": "/#contact",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -95,14 +95,64 @@
             {
                 "type": "Link",
                 "label": "Info",
-                "url": "/info",
+                "url": "/#COUNTRIES",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
+                "label": "consortium",
+                "url": "/#consortium",
+                "altText": "brics consortium"
+            },
+            {
+                "type": "Link",
+                "label": "brics pay qr",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "loyalty",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "brics pay b2b",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "brics cbdc",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "brics id",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             },
             {
                 "type": "Link",
@@ -112,9 +162,11 @@
             },
             {
                 "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "label": "Contact",
+                "url": "/#contact",
+                "altText": "",
+                "showIcon": true,
+                "icon": "arrowRight"
             }
         ],
         "contacts": {
@@ -127,7 +179,7 @@
             "address": "",
             "addressAltText": "My address"
         },
-        "copyrightText": "© BRICS Business Council, 2024 | \n\nBRICS PAY - Decentralised multi-currency digital international payments system.\n",
+        "copyrightText": "© BRICS Business Council, 2024 |\n\nBRICS PAY — Decentralised multi-currency digital international payments system.\n",
         "styles": {
             "self": {
                 "width": "narrow",
