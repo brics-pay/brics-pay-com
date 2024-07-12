@@ -184,7 +184,7 @@ sections:
             showIcon: true
             icon: arrowRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
         elementId: ''
         styles:
