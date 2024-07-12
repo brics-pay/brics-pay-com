@@ -94,15 +94,15 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "consortium",
                 "url": "/",
                 "altText": "brics consortium"
+            },
+            {
+                "type": "Link",
+                "label": "Info",
+                "url": "/info",
+                "altText": ""
             },
             {
                 "type": "Link",
