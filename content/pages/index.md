@@ -278,7 +278,7 @@ sections:
         title: 'BRICS Pay Consortium''s Areas of Focus:'
         subtitle: ''
         text: |+
-          #### BRICS Pay Consortium's Areas of Focus:
+
 
         actions: []
         elementId: ''
