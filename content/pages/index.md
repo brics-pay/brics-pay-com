@@ -315,7 +315,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: READ
             altText: ''
             url: /
             showIcon: true
