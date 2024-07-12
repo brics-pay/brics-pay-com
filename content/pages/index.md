@@ -295,7 +295,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: ''
+        subtitle: BRICS Pay QR - Retail Payment System
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
