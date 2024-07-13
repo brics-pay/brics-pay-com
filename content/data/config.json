@@ -56,7 +56,7 @@
             },
             {
                 "type": "Link",
-                "label": "brics_id",
+                "label": "brics id",
                 "altText": "BRICS ID",
                 "url": "/brics_id",
                 "showIcon": false,
