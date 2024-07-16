@@ -461,7 +461,7 @@ sections:
             iconPosition: right
             elementId: ''
     actions: []
-    colors: colors-f
+    colors: colors-a
     columns: 1
     spacingX: 16
     spacingY: 16
