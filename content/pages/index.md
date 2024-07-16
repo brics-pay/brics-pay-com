@@ -320,7 +320,7 @@ sections:
           - pr-4
         justifyContent: center
         borderRadius: none
-        borderStyle: solid
+        borderStyle: dashed
       title:
         textAlign: left
       subtitle:
