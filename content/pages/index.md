@@ -42,7 +42,9 @@ sections:
 
       *   for all forms of money
 
-      *   for all of humanity![](/images/OC%2010.png)
+      *   for all of humanity
+
+      ![](/images/OC%2010.png)
 
   - type: DividerSection
     title: Divider
