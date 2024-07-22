@@ -551,7 +551,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: ''
-    title: products
+    title: brics pay products
   - type: FeaturedItemsSection
     title: Official documents
     items:
