@@ -35,11 +35,10 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: |+
-      **Open to innovations for all**
+    text: |
+      **Open to innovations for all:**
 
       • countries • forms of money • of humanity
-
   - type: DividerSection
     title: Divider
     elementId: ''
