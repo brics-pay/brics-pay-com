@@ -44,8 +44,6 @@ sections:
 
       *   for all of humanity
 
-      ![](/images/OC%2010.png)
-
   - type: DividerSection
     title: Divider
     elementId: ''
