@@ -970,7 +970,7 @@ sections:
         textAlign: left
     elementId: contact
   - type: MediaGallerySection
-    title: Gallery
+    title: partners
     subtitle: ''
     images:
       - type: ImageBlock
