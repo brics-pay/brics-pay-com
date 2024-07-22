@@ -270,6 +270,7 @@ sections:
         justifyContent: center
         borderRadius: xx-large
         borderWidth: 0
+        borderStyle: double
       title:
         textAlign: center
       subtitle:
