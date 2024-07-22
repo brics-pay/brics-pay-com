@@ -253,7 +253,7 @@ sections:
           - pr-4
         justifyContent: center
         borderRadius: xx-large
-        borderWidth: 0
+        borderWidth: 8
         borderStyle: solid
         borderColor: border-primary
       title:
