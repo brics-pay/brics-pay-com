@@ -35,7 +35,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: |+
+    text: |
       **Open to innovations**
 
       *   for all countries
@@ -44,8 +44,7 @@ sections:
 
       *   for all of humanity
 
-      ![](/images/Covers.png)
-
+      ![](/images/bg3.jpg)
   - type: DividerSection
     title: Divider
     elementId: ''
