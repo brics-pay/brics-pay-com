@@ -182,7 +182,7 @@
         "copyrightText": "© BRICS Business Council, 2024 |\n\nBRICS PAY — Decentralised multi-currency digital international payments system.\n",
         "styles": {
             "self": {
-                "width": "wide",
+                "width": "full",
                 "padding": [
                     "pt-16",
                     "pb-16",
