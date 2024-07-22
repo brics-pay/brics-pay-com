@@ -165,7 +165,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: TextSection
-    colors: colors-e
+    colors: colors-b
     variant: variant-a
     title: 'BRICS PAY: A Cornerstone for a Sovereign and Prosperous Nations'
     text: >
