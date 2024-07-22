@@ -268,7 +268,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: xx-large
+        borderRadius: full
         borderWidth: 0
       title:
         textAlign: center
