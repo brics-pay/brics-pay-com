@@ -271,6 +271,7 @@ sections:
         borderRadius: xx-large
         borderWidth: 0
         borderStyle: none
+        borderColor: border-dark
       title:
         textAlign: center
       subtitle:
