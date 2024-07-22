@@ -974,7 +974,7 @@ sections:
     elementId: ''
     styles:
       self:
-        width: wide
+        width: narrow
         padding:
           - pt-5
           - pb-5
