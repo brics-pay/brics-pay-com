@@ -1007,7 +1007,7 @@ sections:
         textAlign: center
 backgroundImage:
   type: BackgroundImage
-  url: /images/OC 13.png
+  url: /images/Cover.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
