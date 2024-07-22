@@ -5,7 +5,7 @@ colors: colors-a
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: UNIFIED MONETARY SETTLEMENT ECOSYSTEM - BRICS PAY
     subtitle: "Decentralised multi-currency digital international payments system\_between the BRICS countries for any user of all types of payments from individuals to corporations."
     styles:
