@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: '33,9%'
+title: Second definition
 colors: colors-a
 date: ''
 client: ''
