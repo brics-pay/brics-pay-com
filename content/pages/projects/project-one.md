@@ -1,10 +1,13 @@
 ---
 type: ProjectLayout
-title: '33,9%'
+title: Second definition
 colors: colors-a
 date: ''
 client: ''
-description: The area of ​​the land
+description: >-
+  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
+  because I worked with an entire team :) but they definitely followed my lead
+  most of the time.
 addTitleSuffix: true
 featuredImage:
   type: ImageBlock

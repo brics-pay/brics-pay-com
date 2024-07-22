@@ -44,8 +44,6 @@ sections:
 
       *   for all of humanity
 
-      ![](/images/OC%2010.png)
-
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -167,18 +165,22 @@ sections:
     columns: 1
     aspectRatio: '16:9'
     showCaption: false
-    enableHover: true
+    enableHover: false
     elementId: ''
     styles:
       self:
         height: auto
-        width: full
+        width: narrow
         padding:
           - pt-12
           - pb-12
           - pl-4
           - pr-4
         justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-primary
       title:
         textAlign: center
       subtitle:
@@ -209,85 +211,6 @@ sections:
         elementId: ''
     colors: colors-f
     spacing: 16
-    columns: 4
-    aspectRatio: '4:3'
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-  - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/gallery-1.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-    colors: colors-c
-    spacing: 16
-    columns: 1
-    aspectRatio: '16:9'
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: xx-large
-        borderWidth: 8
-        borderStyle: solid
-        borderColor: border-dark
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-  - type: MediaGallerySection
-    title: ''
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/gallery-1.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-2.jpg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-3.jpg
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
-    colors: colors-c
-    spacing: 16
     columns: 2
     aspectRatio: '1:1'
     showCaption: false
@@ -308,7 +231,7 @@ sections:
       subtitle:
         textAlign: center
   - type: TextSection
-    colors: colors-b
+    colors: colors-e
     variant: variant-a
     title: 'BRICS PAY: A Cornerstone for a Sovereign and Prosperous Nations'
     text: >
@@ -447,7 +370,7 @@ sections:
           self:
             textAlign: left
     actions: []
-    colors: colors-b
+    colors: colors-c
     columns: 2
     spacingX: 16
     spacingY: 16
@@ -949,7 +872,7 @@ sections:
     elementId: ''
     styles:
       self:
-        width: narrow
+        width: wide
         padding:
           - pt-5
           - pb-5
@@ -990,7 +913,7 @@ sections:
     spacing: 16
     columns: 5
     aspectRatio: '16:9'
-    showCaption: true
+    showCaption: false
     enableHover: false
     elementId: ''
     styles:
@@ -1009,7 +932,7 @@ sections:
         textAlign: center
 backgroundImage:
   type: BackgroundImage
-  url: /images/OC 11.png
+  url: /images/Cover.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
