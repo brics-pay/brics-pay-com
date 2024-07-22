@@ -35,16 +35,15 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: |
+    text: |+
       **Open to innovations**
 
       *   for all countries
 
       *   for all forms of money
 
-      *   for all of humanity
+      *   for all of humanity![](/images/OC%2010.png)
 
-      ![](/images/bg3.jpg)
   - type: DividerSection
     title: Divider
     elementId: ''
