@@ -551,6 +551,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: ''
+    title: products
   - type: FeaturedItemsSection
     title: Official documents
     items:
