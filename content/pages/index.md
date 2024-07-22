@@ -269,7 +269,7 @@ sections:
           - pr-4
         justifyContent: center
         borderRadius: xx-large
-        borderWidth: 0
+        borderWidth: 3
         borderStyle: none
       title:
         textAlign: center
