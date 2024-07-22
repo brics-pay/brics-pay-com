@@ -269,7 +269,7 @@ sections:
           - pr-4
         justifyContent: center
         borderRadius: xx-large
-        borderWidth: 0
+        borderWidth: 2
         borderStyle: solid
         borderColor: border-dark
       title:
