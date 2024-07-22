@@ -1007,7 +1007,7 @@ sections:
         textAlign: center
 backgroundImage:
   type: BackgroundImage
-  url: /images/Cover.png
+  url: /images/Cover (1).png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
