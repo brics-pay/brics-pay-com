@@ -256,11 +256,6 @@ sections:
         altText: Image two
         caption: Image two caption
         elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
     colors: colors-c
     spacing: 16
     columns: 2
