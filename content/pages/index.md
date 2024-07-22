@@ -165,7 +165,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: TextSection
-    colors: colors-f
+    colors: colors-b
     variant: variant-a
     title: 'BRICS PAY: A Cornerstone for a Sovereign and Prosperous Nations'
     text: >
@@ -304,7 +304,7 @@ sections:
           self:
             textAlign: left
     actions: []
-    colors: colors-f
+    colors: colors-b
     columns: 2
     spacingX: 16
     spacingY: 16
@@ -461,7 +461,7 @@ sections:
             iconPosition: right
             elementId: ''
     actions: []
-    colors: colors-f
+    colors: colors-d
     columns: 1
     spacingX: 16
     spacingY: 16
@@ -484,7 +484,7 @@ sections:
         justifyContent: flex-start
     subtitle: ''
   - type: TextSection
-    colors: colors-f
+    colors: colors-d
     variant: variant-a
     title: ''
     text: >+
@@ -519,6 +519,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
+        borderRadius: none
       title:
         textAlign: left
       subtitle:
