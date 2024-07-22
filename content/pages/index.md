@@ -254,7 +254,7 @@ sections:
         justifyContent: center
         borderRadius: xx-large
         borderWidth: 0
-        borderStyle: solid
+        borderStyle: none
         borderColor: border-primary
       title:
         textAlign: center
