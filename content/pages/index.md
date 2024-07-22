@@ -306,7 +306,7 @@ sections:
       subtitle:
         textAlign: center
   - type: TextSection
-    colors: colors-b
+    colors: colors-e
     variant: variant-a
     title: 'BRICS PAY: A Cornerstone for a Sovereign and Prosperous Nations'
     text: >
