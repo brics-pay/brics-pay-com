@@ -255,7 +255,7 @@ sections:
         borderRadius: xx-large
         borderWidth: 8
         borderStyle: solid
-        borderColor: border-dark
+        borderColor: border-primary
       title:
         textAlign: center
       subtitle:
