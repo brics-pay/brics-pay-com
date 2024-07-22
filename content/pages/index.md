@@ -252,7 +252,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderRadius: xx-large
+        borderRadius: none
         borderWidth: 0
         borderStyle: none
         borderColor: border-primary
