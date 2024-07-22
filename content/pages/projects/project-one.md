@@ -6,4 +6,10 @@ date: ''
 client: ''
 description: The area of ​​the land
 addTitleSuffix: true
+featuredImage:
+  type: ImageBlock
+  url: /images/bg1.jpg
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---

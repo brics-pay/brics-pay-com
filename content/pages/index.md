@@ -44,6 +44,8 @@ sections:
 
       *   for all of humanity
 
+      ![](/images/OC%2010.png)
+
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -151,6 +153,160 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: ''
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/gallery-1.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 1
+    aspectRatio: '16:9'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/gallery-1.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-2.jpg
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-3.jpg
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-4.jpg
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/gallery-1.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-c
+    spacing: 16
+    columns: 1
+    aspectRatio: '16:9'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: xx-large
+        borderWidth: 8
+        borderStyle: solid
+        borderColor: border-dark
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/gallery-1.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-2.jpg
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-3.jpg
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-4.jpg
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-c
+    spacing: 16
+    columns: 2
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: TextSection
     colors: colors-b
     variant: variant-a
@@ -550,7 +706,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: ''
+    title: brics pay products
   - type: FeaturedItemsSection
     title: Official documents
     items:
@@ -787,9 +944,72 @@ sections:
       text:
         textAlign: left
     elementId: contact
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-5
+          - pb-5
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/logo1.svg
+        altText: logo one
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/logo2.svg
+        altText: logo two
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/logo3.svg
+        altText: logo three
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/logo4.svg
+        altText: logo four
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/logo5.svg
+        altText: logo five
+        caption: Caption of the image
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 5
+    aspectRatio: '16:9'
+    showCaption: true
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
 backgroundImage:
   type: BackgroundImage
-  url: /images/Covers.png
+  url: /images/OC 11.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
