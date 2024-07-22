@@ -484,7 +484,7 @@ sections:
         justifyContent: flex-start
     subtitle: ''
   - type: TextSection
-    colors: colors-a
+    colors: colors-d
     variant: variant-a
     title: ''
     text: >+
