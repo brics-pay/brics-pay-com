@@ -304,7 +304,7 @@ sections:
           self:
             textAlign: left
     actions: []
-    colors: colors-c
+    colors: colors-d
     columns: 2
     spacingX: 16
     spacingY: 16
