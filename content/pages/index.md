@@ -872,7 +872,7 @@ sections:
     elementId: ''
     styles:
       self:
-        width: narrow
+        width: wide
         padding:
           - pt-5
           - pb-5
